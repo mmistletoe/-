@@ -1,0 +1,16 @@
+E:\yyy\vs2022c\hm1-2\bin\Debug\net6.0-windows\hm1-2.exe
+E:\yyy\vs2022c\hm1-2\bin\Debug\net6.0-windows\hm1-2.deps.json
+E:\yyy\vs2022c\hm1-2\bin\Debug\net6.0-windows\hm1-2.runtimeconfig.json
+E:\yyy\vs2022c\hm1-2\bin\Debug\net6.0-windows\hm1-2.dll
+E:\yyy\vs2022c\hm1-2\bin\Debug\net6.0-windows\hm1-2.pdb
+E:\yyy\vs2022c\hm1-2\obj\Debug\net6.0-windows\hm1_2.Form1.resources
+E:\yyy\vs2022c\hm1-2\obj\Debug\net6.0-windows\hm1-2.csproj.GenerateResource.cache
+E:\yyy\vs2022c\hm1-2\obj\Debug\net6.0-windows\hm1-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\yyy\vs2022c\hm1-2\obj\Debug\net6.0-windows\hm1-2.AssemblyInfoInputs.cache
+E:\yyy\vs2022c\hm1-2\obj\Debug\net6.0-windows\hm1-2.AssemblyInfo.cs
+E:\yyy\vs2022c\hm1-2\obj\Debug\net6.0-windows\hm1-2.csproj.CoreCompileInputs.cache
+E:\yyy\vs2022c\hm1-2\obj\Debug\net6.0-windows\hm1-2.dll
+E:\yyy\vs2022c\hm1-2\obj\Debug\net6.0-windows\refint\hm1-2.dll
+E:\yyy\vs2022c\hm1-2\obj\Debug\net6.0-windows\hm1-2.pdb
+E:\yyy\vs2022c\hm1-2\obj\Debug\net6.0-windows\hm1-2.genruntimeconfig.cache
+E:\yyy\vs2022c\hm1-2\obj\Debug\net6.0-windows\ref\hm1-2.dll
