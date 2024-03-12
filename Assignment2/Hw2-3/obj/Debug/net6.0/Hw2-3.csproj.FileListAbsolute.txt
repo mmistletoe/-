@@ -1,0 +1,14 @@
+E:\yyy\vs2022c\Hw2-3\bin\Debug\net6.0\Hw2-3.exe
+E:\yyy\vs2022c\Hw2-3\bin\Debug\net6.0\Hw2-3.deps.json
+E:\yyy\vs2022c\Hw2-3\bin\Debug\net6.0\Hw2-3.runtimeconfig.json
+E:\yyy\vs2022c\Hw2-3\bin\Debug\net6.0\Hw2-3.dll
+E:\yyy\vs2022c\Hw2-3\bin\Debug\net6.0\Hw2-3.pdb
+E:\yyy\vs2022c\Hw2-3\obj\Debug\net6.0\Hw2-3.GeneratedMSBuildEditorConfig.editorconfig
+E:\yyy\vs2022c\Hw2-3\obj\Debug\net6.0\Hw2-3.AssemblyInfoInputs.cache
+E:\yyy\vs2022c\Hw2-3\obj\Debug\net6.0\Hw2-3.AssemblyInfo.cs
+E:\yyy\vs2022c\Hw2-3\obj\Debug\net6.0\Hw2-3.csproj.CoreCompileInputs.cache
+E:\yyy\vs2022c\Hw2-3\obj\Debug\net6.0\Hw2-3.dll
+E:\yyy\vs2022c\Hw2-3\obj\Debug\net6.0\refint\Hw2-3.dll
+E:\yyy\vs2022c\Hw2-3\obj\Debug\net6.0\Hw2-3.pdb
+E:\yyy\vs2022c\Hw2-3\obj\Debug\net6.0\Hw2-3.genruntimeconfig.cache
+E:\yyy\vs2022c\Hw2-3\obj\Debug\net6.0\ref\Hw2-3.dll
