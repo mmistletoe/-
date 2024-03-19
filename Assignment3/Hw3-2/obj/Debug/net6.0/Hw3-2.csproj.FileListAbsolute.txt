@@ -1,0 +1,14 @@
+E:\yyy\vs2022c\Hw3-2\bin\Debug\net6.0\Hw3-2.exe
+E:\yyy\vs2022c\Hw3-2\bin\Debug\net6.0\Hw3-2.deps.json
+E:\yyy\vs2022c\Hw3-2\bin\Debug\net6.0\Hw3-2.runtimeconfig.json
+E:\yyy\vs2022c\Hw3-2\bin\Debug\net6.0\Hw3-2.dll
+E:\yyy\vs2022c\Hw3-2\bin\Debug\net6.0\Hw3-2.pdb
+E:\yyy\vs2022c\Hw3-2\obj\Debug\net6.0\Hw3-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\yyy\vs2022c\Hw3-2\obj\Debug\net6.0\Hw3-2.AssemblyInfoInputs.cache
+E:\yyy\vs2022c\Hw3-2\obj\Debug\net6.0\Hw3-2.AssemblyInfo.cs
+E:\yyy\vs2022c\Hw3-2\obj\Debug\net6.0\Hw3-2.csproj.CoreCompileInputs.cache
+E:\yyy\vs2022c\Hw3-2\obj\Debug\net6.0\Hw3-2.dll
+E:\yyy\vs2022c\Hw3-2\obj\Debug\net6.0\refint\Hw3-2.dll
+E:\yyy\vs2022c\Hw3-2\obj\Debug\net6.0\Hw3-2.pdb
+E:\yyy\vs2022c\Hw3-2\obj\Debug\net6.0\Hw3-2.genruntimeconfig.cache
+E:\yyy\vs2022c\Hw3-2\obj\Debug\net6.0\ref\Hw3-2.dll
