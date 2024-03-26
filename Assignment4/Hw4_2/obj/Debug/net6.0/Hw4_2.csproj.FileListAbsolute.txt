@@ -1,0 +1,14 @@
+E:\yyy\vs2022c\Hw4_2\obj\Debug\net6.0\Hw4_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\yyy\vs2022c\Hw4_2\obj\Debug\net6.0\Hw4_2.AssemblyInfoInputs.cache
+E:\yyy\vs2022c\Hw4_2\obj\Debug\net6.0\Hw4_2.AssemblyInfo.cs
+E:\yyy\vs2022c\Hw4_2\obj\Debug\net6.0\Hw4_2.csproj.CoreCompileInputs.cache
+E:\yyy\vs2022c\Hw4_2\bin\Debug\net6.0\Hw4_2.exe
+E:\yyy\vs2022c\Hw4_2\bin\Debug\net6.0\Hw4_2.deps.json
+E:\yyy\vs2022c\Hw4_2\bin\Debug\net6.0\Hw4_2.runtimeconfig.json
+E:\yyy\vs2022c\Hw4_2\bin\Debug\net6.0\Hw4_2.dll
+E:\yyy\vs2022c\Hw4_2\bin\Debug\net6.0\Hw4_2.pdb
+E:\yyy\vs2022c\Hw4_2\obj\Debug\net6.0\Hw4_2.dll
+E:\yyy\vs2022c\Hw4_2\obj\Debug\net6.0\refint\Hw4_2.dll
+E:\yyy\vs2022c\Hw4_2\obj\Debug\net6.0\Hw4_2.pdb
+E:\yyy\vs2022c\Hw4_2\obj\Debug\net6.0\Hw4_2.genruntimeconfig.cache
+E:\yyy\vs2022c\Hw4_2\obj\Debug\net6.0\ref\Hw4_2.dll
