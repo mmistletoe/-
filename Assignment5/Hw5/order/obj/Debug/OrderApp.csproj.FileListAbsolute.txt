@@ -1,0 +1,7 @@
+C:\Users\86182\Desktop\order\bin\Debug\OrderApp.exe.config
+C:\Users\86182\Desktop\order\bin\Debug\OrderApp.exe
+C:\Users\86182\Desktop\order\bin\Debug\OrderApp.pdb
+C:\Users\86182\Desktop\order\obj\Debug\OrderApp.csproj.AssemblyReference.cache
+C:\Users\86182\Desktop\order\obj\Debug\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\86182\Desktop\order\obj\Debug\OrderApp.exe
+C:\Users\86182\Desktop\order\obj\Debug\OrderApp.pdb
